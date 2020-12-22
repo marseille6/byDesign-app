@@ -23,7 +23,7 @@ Page({
       header:{
         appkey:config.appkey
       },
-      success(res) {
+      success: res => {
         this.setData({
           topTheme:res.data[0]
         })

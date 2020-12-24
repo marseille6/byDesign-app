@@ -1,0 +1,28 @@
+{
+  "name": "apps",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lin-ui": "~0.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marseille6/byDesign.git"
+  },
+  "keywords": [
+    "byDesign"
+  ],
+  "author": "mars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marseille6/byDesign/issues"
+  },
+  "homepage": "https://github.com/marseille6/byDesign#readme"
+}
